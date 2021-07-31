@@ -8,9 +8,9 @@ pkg upgrade
 
 pkg install git
 
-git clone https://github.com/LUZAICK/felilu
+git clone https://github.com/LUZAICK/felilu-/edit/main/README.md
 
-cd LUZAICK/felilu
+cd LUZAICK/felilu-
 
 bash install.sh
 

@@ -1,4 +1,4 @@
-❮ ❮ 𝐁𝐘 𝐏𝐀𝐓𝐎 ❯ ❯
+❮ ❮❤︎⋆∙𝐋𝐔𝐙𝐀𝐈𝐂𝐊-𝐁𝐎𝐓¹⁹🌹᭄❯ ❯
 
 ➤Comandos
 
@@ -8,9 +8,9 @@ pkg upgrade
 
 pkg install git
 
-git clone https://github.com/Mr-Pato/self-bot
+git clone https://github.com/LUZAICK/felilu
 
-cd self-bot
+cd LUZAICK/felilu
 
 bash install.sh
 
